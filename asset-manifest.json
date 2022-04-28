@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2816e682.css",
+    "main.js": "/static/js/main.741c706d.js",
+    "static/media/headshot.jpg": "/static/media/headshot.ee63b72c4625caec1d20.jpg",
+    "static/media/resume.pdf": "/static/media/resume.c670c47d46136b4084a1.pdf",
+    "static/media/leonardo-logo.png": "/static/media/leonardo-logo.fe913733b9268ef14e36.png",
+    "index.html": "/index.html",
+    "main.2816e682.css.map": "/static/css/main.2816e682.css.map",
+    "main.741c706d.js.map": "/static/js/main.741c706d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2816e682.css",
+    "static/js/main.741c706d.js"
+  ]
+}
